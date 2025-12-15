@@ -1,3 +1,9 @@
+# my own version of suckless.org stuff
+- I want to hack some suckless.org apps
+- repo see:
+https://gitee.com/EEPPEE_admin/suckless.org-my-maintain
+
+
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
